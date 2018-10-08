@@ -13,3 +13,4 @@
 * Data Scrapping
 
 ## Introduction to School of AI
+Presenter: Angel			
