@@ -1,5 +1,5 @@
 # Agenda for 01 Meetup on 10/20
-
+Slides: [Meetup 01 Presentation](https://docs.google.com/presentation/d/1VvWQjbIapmasHWp6tJeHh1bqGxmYtDLev97K2T8i7Ho/edit?usp=sharing)
 * Introduction to School of AI - Angel
 * Challenges of ML - Angel
 * Regression VS Decision Tree - Rishov (Python) / Jamel (R) 
